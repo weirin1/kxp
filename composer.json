@@ -1,0 +1,20 @@
+{
+    "name": "weirin/kxp",
+    "description": "微灵软件的二维码平台对接SDK",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "weirin",
+            "email": "weirin@weirin.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Weirin\\Kxp\\": "src/"
+        }
+    }
+}
